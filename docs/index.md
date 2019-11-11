@@ -2,8 +2,8 @@
 **Dev:** *RRoot*   
 **Date:** *1.1.2030*
 
-## Introduction
-## Topic 1
+## Raising Custom Errors
+Python automatically generates errors based on conditions defined by the Python Runtime. However, you can also "raise" errors based on custom conditions (Listing 13). 
 
 ```
 # ------------------------------------------------- #
@@ -22,4 +22,4 @@ except Exception as e:
     print("Built-In Python error info: ")
     print(e, e.__doc__, type(e), sep='\n')
 ```
-### Listing 1
+#### Listing 13
