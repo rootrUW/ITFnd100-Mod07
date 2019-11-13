@@ -29,3 +29,5 @@ except Exception as e:
 
 
 ![Results of Listing 13](https://github.com/rootrUW/ITFnd100-Mod07/blob/master/docs/Figure13.png "Results of Listing 13")
+
+https://rootruw.github.io/ITFnd100-Mod07/
