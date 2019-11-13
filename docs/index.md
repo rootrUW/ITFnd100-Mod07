@@ -27,6 +27,6 @@ except Exception as e:
 ```
 #### Listing 13
 
-![Results of Listing 13](docs/Figure 13.png "Results of Listing 13")
+![Results of Listing 13](/docs/Figure 13.png "Results of Listing 13")
 #### Figure 13. The results of Listing 13
 
