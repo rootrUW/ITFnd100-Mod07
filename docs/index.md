@@ -36,4 +36,4 @@ except Exception as e:
 https://rootruw.github.io/ITFnd100-Mod07/
 
 
-<img src="https://github.com/rootrUW/ITFnd100-Mod07/blob/master/docs/Figure13.jpg" />
+<img src="https://github.com/rootrUW/ITFnd100-Mod07/master/docs/Figure13.jpg" />
