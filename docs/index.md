@@ -25,15 +25,7 @@ except Exception as e:
     print("Built-In Python error info: ")
     print(e, e.__doc__, type(e), sep='\n')
 ```
-#### Listing 13
-![Results of Listing 13](https://rootruw.github.io/ITFnd100-Mod07/Figure13.png "Results of Listing 13")
-#### Figure 13. The results of Listing 13
 
-#### Listing 13
-![Results of Listing 13](Figure13.jpg)
-#### Figure 13. The results of Listing 13
-
-https://rootruw.github.io/ITFnd100-Mod07/
 
 
 <img src="https://github.com/rootrUW/ITFnd100-Mod07/master/docs/Figure13.jpg" />
