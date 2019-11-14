@@ -26,4 +26,6 @@ except Exception as e:
     print(e, e.__doc__, type(e), sep='\n')
 ```
 
-![Results of Listing 13](https://github.com/rootrUW/ITFnd100-Mod07/blob/master/docs/Figure%2013.png "Results of Listing 13")
+![Results of Listing 13](https://rootruw.github.io/ITFnd100-Mod07/Figure%2013.png "Results of Listing 13")
+                         
+![Results of Listing 13](Figure%2013.png "Results of Listing 13")
