@@ -34,3 +34,6 @@ except Exception as e:
 #### Figure 13. The results of Listing 13
 
 https://rootruw.github.io/ITFnd100-Mod07/
+
+
+<img src="https://github.com/rootrUW/ITFnd100-Mod07/blob/master/docs/Figure13.jpg" />
