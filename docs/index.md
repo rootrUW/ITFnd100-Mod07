@@ -30,7 +30,7 @@ except Exception as e:
 #### Figure 13. The results of Listing 13
 
 #### Listing 13
-![Results of Listing 13](/docs/Figure13.jpg)
+![Results of Listing 13](./Figure13.jpg)
 #### Figure 13. The results of Listing 13
 
 https://rootruw.github.io/ITFnd100-Mod07/
